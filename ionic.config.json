@@ -1,0 +1,7 @@
+{
+  "name": "miappmoviltest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
